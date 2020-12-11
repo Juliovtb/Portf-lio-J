@@ -1,0 +1,260 @@
+body, ul, li, p {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.minhaft{
+    width: 40px;
+    border-radius: 50%;
+}
+
+.nome {
+    font-size: 16px;
+}
+
+.header {
+    background-image: url(img/wallp_41.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+    padding:  18px;
+    align-items: center;
+}
+
+
+.menu {
+    display: flex;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.menu li {
+    margin-left: 30px;
+}
+
+.menu {
+    margin-left: 800px;
+}
+
+header a {
+    margin-left: 10px;
+}
+
+
+
+.apresentacao {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+h1 {
+    position: static;
+    top: 50px;
+    width: 500px;
+    margin-top: -500px;
+    margin-left: 700px;
+    margin-right: auto;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.apresentacao h3 {
+    position: static;
+    top: 50px;
+    width: 500px;
+    margin-top: -440px;
+    margin-left: 700px;
+    margin-right: auto;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+b {
+    color: coral;
+}
+
+.oi {
+    position: static;
+    top: 50px;
+    width: 500px;
+    margin-top: -370px;
+    margin-left: 700px;
+    margin-right: auto;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+#ftda {
+    width: 550px;
+    margin-top: 0px;
+}
+
+.sobre {
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 100px;
+}
+
+.eu {
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 150px;
+}
+
+#flexibilidade {
+    size: 100px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.flex img {
+    height: 90px;
+    width: 90px;
+}
+
+.flex div {
+    margin: 50px;
+    flex: 1 1 300px;
+}
+
+.flex p {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+svg {
+    max-width: 100%;
+    display: block;
+}
+
+
+
+.contato {
+    background-image: url(img/OIP\ \(2\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    text-decoration: none; 
+    padding: 80px;
+    align-items: center;
+
+}
+
+#fone, #e-mail {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#numeros {
+    padding-bottom: 10px;
+}
+
+#numeros ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: black;
+    font-size: 20px;
+    padding-left: 100px;
+}
+
+#fla {
+    margin-left: 400px;
+}
+
+#imgdofone {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#imgdoat {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 300px;
+}
+
+#num {
+    margin-top: -42px;
+    margin-left: 140px;
+}
+
+#fla {
+    margin-left: 530px;
+    margin-top: -42px;
+    font-family: sans-serif;
+}
+
+
+
+.flex2 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+    margin-left: 80px;
+}
+
+.flex2 div {
+    
+    flex: 1 1 300px;
+}
+
+.flex2 p {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.capa {
+   height: 300px;
+   width: 200px;
+   margin-top: -600px;
+   margin-left: 1100px;
+}
+
+.cartao {
+    width: 300px;
+    height: 200px;
+    margin-right: 700px;
+    margin-top: 200px;
+}
+
+.centro {
+    width: 300px;
+    height: 300px;
+    margin-left: 530px;
+    margin-top: -600px;
+    image-orientation: freeze;
+}
+
+#imgdoat img {
+    width: 40px;
+    margin-left: 175px;
+    margin-top: 10px;
+}
+
